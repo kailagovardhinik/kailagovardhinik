@@ -1,4 +1,14 @@
 ### Hi there 👋
+I'm Kaila Govardhini Kumaravel 👋
+
+## About me
+
+I am a passionate and enthusiastic learner currently pursuing a short course on Data Science. I enjoy exploring the realms of data and am keen on leveraging its power to solve complex problems. My interest in this field stems from my curiosity about how data can be used to make informed decisions and drive positive change.
+
+- 🔭 I’m currently working on enhancing my skills in data analysis and visualization.
+- 🌱 I’m currently learning machine learning algorithms and their applications.
+- 🤝 I’m looking to collaborate on projects related to data science and analytics.
+
 
 <!--
 **kailagovardhinik/kailagovardhinik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
