@@ -11,9 +11,6 @@ I am a passionate and enthusiastic learner currently pursuing a short course on 
                     </p>
                     
 ### Socials
-
-<p align="left"> <a href="https://www.youtube.com/@@kailakumaravel2285?si=a8LKgVQajTXcmEuS" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
-                  
                   
   <p align="left">
                       <a href="https://www.github.com/kailagovardhinik" target="_blank" rel="noreferrer">
@@ -37,3 +34,14 @@ I am a passionate and enthusiastic learner currently pursuing a short course on 
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
                     </a></p>
+                    <a href="https://www.youtube.com/watch?v=Vnazhn5Aqtc&t=11s" target="_blank" rel="noreferrer"> 
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="undefined" /> 
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/rss.svg" width="32" height="32" /> 
+                    </picture> 
+                    </a> <a href="https://www.youtube.com/@kailakumaravel2285?si=sM4vZJVmEkjPz2qb" target="_blank" rel="noreferrer"> 
+                    <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> 
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
+                    </picture> </a></p>
