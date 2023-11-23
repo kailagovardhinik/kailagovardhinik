@@ -21,7 +21,4 @@ I am a passionate and enthusiastic learner currently pursuing a short course on 
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/kailagovardhinik/YouTube-Data-Harvesting-and-Warehousing-using-SQL-MongoDB-and-Streamlit" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kailagovardhinik&repo=YouTube-Data-Harvesting-and-Warehousing-using-SQL-MongoDB-and-Streamlit&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/kailagovardhinik/Phonepe-Pulse-Data-Visualization-and-Exploration-A-User-Friendly-Tool-Using-Streamlit-and-Plotly" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kailagovardhinik&repo=Phonepe-Pulse-Data-Visualization-and-Exploration-A-User-Friendly-Tool-Using-Streamlit-and-Plotly&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
 <div width="100%" align="center"><a href="https://github.com/kailagovardhinik/BizCardX-Extracting-Business-Card-Data-with-OCR" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kailagovardhinik&repo=BizCardX-Extracting-Business-Card-Data-with-OCR&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
